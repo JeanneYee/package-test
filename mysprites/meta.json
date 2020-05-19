@@ -3,9 +3,9 @@
     "height": 16,
     "blockIdentity": "images._image",
     "creator": "image.ofBuffer",
-    "basename": "smallFood",
+    "basename": "dino",
     "star": {
-        "namespace": "sprites.food",
+        "namespace": "sprites.dino",
         "mimeType": "image/x-mkcd-f4"
     }
 }
